@@ -22,6 +22,10 @@ Busca: Procura por um valor específico, destacando o caminho percorrido.
 
 Remoção: Exclui nós existentes, reorganizando a árvore conforme as regras de cada estrutura.
 
+Limpar Árvore: Exclui a árvore existente.
+
+Árvore aleatória: Gera uma árvore aleatória.
+
 🛠️ Tecnologias Utilizadas
 
 Java 17
