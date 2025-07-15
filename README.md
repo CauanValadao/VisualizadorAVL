@@ -14,7 +14,7 @@ Visualização Gráfica: Desenho da estrutura da árvore em tempo real.
 
 Seleção de Estrutura: Permite ao usuário alternar entre uma Árvore Binária de Busca e uma Árvore AVL.
 
-Operações CRUD:
+Operações:
 
 Inserção: Adiciona novos nós à árvore.
 
